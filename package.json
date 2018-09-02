@@ -1,0 +1,17 @@
+{
+  "name": "mastermind",
+  "description": "Discord bot coded by lxm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "starT": "node index.js"
+  },
+  "author": ":lxm",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fortnite": "^4.1.1",
+    "fortnite.js": "^1.3.5",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.1"
+  }
+}
