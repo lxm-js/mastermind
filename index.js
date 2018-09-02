@@ -28,7 +28,7 @@ fs.readdir("./commands/", (err, files) => {
 bot.on("ready", async () => {
 
   console.log(`${bot.user.username} is online on ${bot.guilds.size} servers!`);
-  bot.user.setActivity("filme porno cu Aura", {type: "Watching"});
+  bot.user.setActivity("with your mind", {type: "Playing"});
 
 });
 
